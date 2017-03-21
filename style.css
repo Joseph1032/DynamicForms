@@ -1,0 +1,66 @@
+html {box-sizing: border-box;}
+*, *:before, *:after {box-sizing: inherit;}
+
+#application {
+	border:2px solid;
+	border-color: rgb(195,195,195);
+	height:650px;
+	width:600px;
+	margin-left: 300px;
+	margin-top: 7%
+}
+.box {
+	margin-top: 30px;
+}
+#blue {
+	width: 600px;
+	height:81px;
+	background-color: rgb(194,221,243);
+	margin-left: 300px;
+	margin-top: -6%;
+	border: 2px solid;
+	border-color: rgb(195,195,195);
+}
+button {
+	height:40px;
+	width:100px;
+	margin-left: 20px;
+	margin-top: 20px;
+	color:white;
+	background-color: rgb(24,135,211);
+}
+#blue2 {
+	width: 600px;
+	height:81px;
+	background-color: rgb(24,135,211);
+	margin-top: -57%;
+	margin-left: 300px;
+	border: 2px solid;
+	border-color: rgb(195,195,195);
+}
+p {
+	color:white;
+	line-height: 20px;
+	margin-left: 20px;
+	font-size: 30px;
+	font-family: arial;
+}
+input {
+	width: 550px;
+	height:35px;
+	border: 1px solid gray;
+	margin-left:20px;
+}
+select {
+	width:550px;
+	height:40px;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+textarea {
+	width: 550px;
+	height:35px;
+	border: 1px solid gray;
+	margin-left:20px;
+	margin-top: 40px;
+}
